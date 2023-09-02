@@ -4,7 +4,7 @@
 
 Welcome to a collection of Arduino projects simulated using Proteus 8. Each project demonstrates various functionalities and provides a glimpse into hardware and software interactions. Below are brief descriptions of each project along with pictures of their outputs.
 
-## Project 1: Default Setup
+## Project 1: Voltage Monitor
 
 Components:
 - Default
@@ -17,7 +17,7 @@ Components:
 - Bus
 - NC
 
-![Project 1 Output](images/project1.png)
+![Project 1 Output](first/Capture.PNG)
 
 ## Project 2: Temperature Monitor
 
@@ -28,7 +28,9 @@ Components:
 - LM35 Temperature Sensor
 - Motor
 
-![Project 2 Output](images/project2.png)
+![Project 2 Output](second/Capture1.PNG)
+
+![Project 2 Output](second/Capture2.PNG)
 
 ## Project 3: Motor Control
 
@@ -39,7 +41,7 @@ Components:
 - LM35 Temperature Sensor
 - Motor
 
-![Project 3 Output](images/project3.png)
+![Project 3 Output](third/Capture.PNG)
 
 ## Project 4: Traffic Light
 
@@ -50,7 +52,7 @@ Components:
 - LED-Red
 - LED-Yellow
 
-![Project 4 Output](images/project4.png)
+![Project 4 Output](fourth/Capture.PNG)
 
 ## Project 5: Numeric Keypad
 
@@ -69,7 +71,7 @@ Description:
 This project is a light that turns on by entering the code "1378."
 Please note that running this program requires the installation of the "keypad.h" library on your system.
 
-![Project 5 Output](images/project5.png)
+![Project 5 Output](fifth/Capture.PNG)
 
 ## Usage
 
@@ -77,7 +79,7 @@ Each project folder contains the Arduino code and the corresponding Proteus simu
 
 ## License
 
-This project is licensed under the [License] license. For more information, please refer to the license file.
+This project is licensed under the MIT license. For more information, please refer to the license file.
 
 ---
 
